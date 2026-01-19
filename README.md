@@ -31,7 +31,7 @@ In this phase, I focused on "Syntax De-rusting" and building robust logic gates.
 
 ### 🚀 View My Work
 You can run and interact with my Phase 1 code directly in your browser:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1V-RKLVcNNcIx2nl_GE-1NEIGNhstqnV9?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V-RKLVcNNcIx2nl_GE-1NEIGNhstqnV9?usp=sharing)
 
 ---
 
